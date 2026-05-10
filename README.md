@@ -77,7 +77,7 @@ Classification is handled via **Vector Trajectory Analysis**:
 
 ### 2. Installation
 ```bash
-git clone [https://github.com/prabhatbhusal/Shot-Classification-System.git](https://github.com/prabhatbhusal/Shot-Classification-System.git)
+git clone [https://github.com/prabhatbhusal/Shot-Classification-System.git]
 cd Shot-Classification-System
 python -m venv venv
 # Activate venv and install dependencies
