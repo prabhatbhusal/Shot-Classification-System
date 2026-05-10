@@ -19,20 +19,6 @@ A real-time computer vision pipeline that analyzes padel match footage from a fi
 
 ---
 
-# 🎾 Shot Classification System
-### Layman AI Internship Assignment
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.10-green?style=for-the-badge&logo=opencv)
-![CUDA](https://img.shields.io/badge/CUDA-12.8-76B900?style=for-the-badge&logo=nvidia)
-
-A real-time computer vision pipeline that analyzes padel match footage from a fixed overhead CCTV camera—detecting players, tracking the ball, and classifying shot types frame by frame.
-
-[Overview](#overview) • [Approach](#-approach--methodology) • [Setup](#setup) • [Usage](#usage) • [Challenges](#-challenges-faced)
-
----
-
 ## Overview
 
 This project is a prototype of a **Padel Game Analytics System**. Given an overhead CCTV video, the system:
