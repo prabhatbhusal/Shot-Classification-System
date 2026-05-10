@@ -83,4 +83,6 @@ python -m venv venv
 # Activate venv and install dependencies
 pip install torch torchvision --index-url [https://download.pytorch.org/whl/cu128](https://download.pytorch.org/whl/cu128)
 pip install -r requirements.txt
+```
 </div>
+
