@@ -1,9 +1,9 @@
 # Shot-Classification-System
-This is a repository of shot classification using Python-CV\
+This is a repository of shot classification using Python-CV
 <div align="center">
 
 # 🎾Shot Classification System
-### Shot Classification System — Layman AI Internship Assignment
+### Shot Classification System 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple?style=for-the-badge)
@@ -11,7 +11,7 @@ This is a repository of shot classification using Python-CV\
 ![CUDA](https://img.shields.io/badge/CUDA-12.8-76B900?style=for-the-badge&logo=nvidia)
 
 
-A real-time computer vision pipeline that analyzes padel match footage from a fixed overhead CCTV camera — detecting players, tracking the ball, and classifying shot types frame by frame.
+A real-time computer vision pipeline that analyzes tennis match footage from a fixed overhead CCTV camera — detecting players, tracking the ball, and classifying shot types frame by frame.
 
 [Overview](#overview) • [Demo](#demo) • [Features](#features) • [Setup](#setup) • [Usage](#usage) • [How It Works](#how-it-works) • [Output](#output)
 
