@@ -21,7 +21,7 @@ A real-time computer vision pipeline that analyzes padel match footage from a fi
 
 ## Overview
 
-This project is a prototype of a **Padel Game Analytics System**. Given an overhead CCTV video, the system:
+This project is a prototype of a ** Shot Classification System**. Given an overhead CCTV video, the system:
 - Detects and tracks all 4 players with stable IDs.
 - Detects the ball using HSV color filtering and circularity heuristics.
 - Classifies shots as **Forehand, Backhand, Volley, Smash, or Serve**.
