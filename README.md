@@ -34,7 +34,7 @@ This project is a prototype of a ** Shot Classification System**. Given an overh
 The system utilizes a modular pipeline to transform raw pixels into structured sports data:
 
 ### 1. Spatial Filtering (Geofencing)
-To eliminate background noise (spectators, vehicles), we define a trapezoidal `COURT_POLYGON`. Only detections falling within this playable area are processed, significantly reducing false positives.
+To eliminate background noise , we define a trapezoidal `COURT_POLYGON`. Only detections falling within this playable area are processed, significantly reducing false positives.
 
 ### 2. Stable Player Tracking
 Standard YOLO IDs often swap during player crossovers. 
